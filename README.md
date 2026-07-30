@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi 👋, I'm Jada Naga Sai Praneeth
 
-<!--
-**nagasaipraneethjada-collab/nagasaipraneethjada-collab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Computer Science Student
+### 🤖 AI/ML Enthusiast
 
-Here are some ideas to get you started:
+- 🌱 Currently learning **Artificial Intelligence, Machine Learning, Deep Learning, Computer Vision & NLP**
+- 🚀 Working on **AI-based Sign Language Interpreter**
+- 💻 Languages: **Python, C, Java**
+- 🛠️ Tools: **TensorFlow, PyTorch, OpenCV, NumPy, Pandas, Scikit-learn**
+- 📚 Always learning and building real-world AI projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nagasaipraneethjada-collab&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nagasaipraneethjada-collab&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=nagasaipraneethjada-collab&theme=tokyonight)
