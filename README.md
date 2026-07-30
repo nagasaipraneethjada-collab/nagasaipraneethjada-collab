@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="banner.png" alt="Banner" width="100%">
+</p>
 # Hi 👋, I'm Jada Naga Sai Praneeth
 
 ### 💻 Computer Science Student
