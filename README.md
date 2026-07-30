@@ -21,4 +21,4 @@
 ## 🐍 Contribution Graph
 
 ![Snake animation](https://github.com/nagasaipraneethjada-collab/nagasaipraneethjada-collab/blob/output/github-contribution-grid-snake-dark.svg)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi+I'm+Jada+Naga+Sai+Praneeth;Computer+Science+Student;AI+%7C+Machine+Learning+%7C+Deep+Learning;Computer+Vision+%7C+NLP;Building+AI-powered+Solutions)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi,+I'm+Jada+Naga+Sai+Praneeth;Computer+Science+Student;AI%2FML+Enthusiast)](https://git.io/typing-svg)
