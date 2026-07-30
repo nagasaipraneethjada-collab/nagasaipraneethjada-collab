@@ -18,3 +18,6 @@
 ![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=nagasaipraneethjada-collab&layout=compact&theme=tokyonight)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=nagasaipraneethjada-collab&theme=tokyonight)
+## 🐍 Contribution Graph
+
+![Snake animation](https://github.com/nagasaipraneethjada-collab/nagasaipraneethjada-collab/blob/output/github-contribution-grid-snake-dark.svg)
